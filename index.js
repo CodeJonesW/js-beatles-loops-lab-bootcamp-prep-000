@@ -12,4 +12,5 @@ while (i < facts.length) {
   newArray.push(facts[i] + '!!!');
   i++;
 }
+return newArray;
 }
