@@ -15,7 +15,7 @@ while (i < facts.length) {
 return newArray;
 }
 function iLoveTheBeatles (num) {
-  newArray = [];
+  let newArray = [];
   do {newArray.push('I love the Beatles!')} while (num < 15);
   return newArray;
 }
